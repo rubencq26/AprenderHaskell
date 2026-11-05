@@ -1,5 +1,9 @@
 # Listas
 
+### Tipos de Datos
+![alt text](image.png)
+
+
 lista = [1,2,3,4]
 
 suma :: [Integer] -> Integer 
